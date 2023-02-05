@@ -1,0 +1,48 @@
+Beef, Vitamin B12: 2.4 mcg
+Chicken, Vitamin B3: 5.0 mg, Vitamin B6: 0.3 mg, Vitamin B12: 0.9 mcg
+Pork, Vitamin B1: 0.06 mg, Vitamin B3: 5.5 mg, Vitamin B6: 0.3 mg
+Lamb, Vitamin B12: 2.3 mcg
+Turkey, Vitamin B3: 4.0 mg, Vitamin B6: 0.3 mg, Vitamin B12: 1.0 mcg
+Salmon, Vitamin D: 2.0 mcg
+Tuna, Vitamin D: 2.0 mcg
+Shrimp, Vitamin D: 2.0 mcg
+Egg, Vitamin D: 2.0 mcg
+Spinach, Vitamin A: 9000 IU, Vitamin C: 28 mg, Vitamin K: 483 mcg
+Broccoli, Vitamin A: 438 IU, Vitamin C: 89 mg, Vitamin K: 220 mcg
+Carrots, Vitamin A: 8986 IU
+Sweet Potato, Vitamin A: 7729 IU
+Bell Peppers, Vitamin A: 104 IU, Vitamin C: 120 mg
+Kale, Vitamin A: 8000 IU, Vitamin C: 80 mg, Vitamin K: 717 mcg
+Tomatoes, Vitamin C: 16 mg
+Cauliflower, Vitamin C: 48 mg
+Brussels Sprouts, Vitamin C: 77 mg, Vitamin K: 168 mcg
+Celery, Vitamin C: 4 mg
+Eggplant, Vitamin C: 3 mg
+Green Beans, Vitamin C: 8 mg
+Mushrooms, Vitamin D: 1.0 mcg
+Squash, Vitamin A: 5000 IU
+Peas, Vitamin C: 32 mg, Vitamin K: 80 mcg
+Zucchini, Vitamin C: 18 mg
+Asparagus, Vitamin C: 5 mg
+Artichokes, Vitamin C: 12 mg
+Radishes, Vitamin C: 5 mg
+Lettuce, Vitamin K: 71 mcg
+Cabbage, Vitamin C: 28 mg, Vitamin K: 72 mcg
+Turnips, Vitamin C: 11 mg, Vitamin K: 20 mcg
+Bok Choy, Vitamin A: 3000 IU, Vitamin C: 44 mg, Vitamin K: 139 mcg
+Mustard Greens, Vitamin A: 2000 IU, Vitamin C: 23 mg, Vitamin K: 558 mcg
+Collard Greens, Vitamin A: 3000 IU, Vitamin C: 17 mg, Vitamin K: 574 mcg
+Oranges, Vitamin C: 70 mg
+Strawberries, Vitamin C: 49 mg
+Kiwi, Vitamin C: 64 mg
+Bananas, Vitamin C: 8 mg, Vitamin B6: 0.4 mg
+Apples, Vitamin C: 4 mg
+Pineapple, Vitamin C: 78 mg
+Mangoes, Vitamin A: 866 IU, Vitamin C: 60 mg
+Grapes, Vitamin C: 4 mg
+Watermelon, Vitamin A: 472 IU, Vitamin C: 8 mg
+Peaches, Vitamin C: 8 mg
+Cantaloupe, Vitamin A: 1160 IU, Vitamin C: 53 mg
+Papaya, Vitamin C: 61 mg
+Lemons, Vitamin C: 31 mg
+Limes, Vitamin C: 30 mg
